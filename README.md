@@ -1,7 +1,7 @@
 # MEMECanvas
 
+**![DEMO](https://eduardoferr.github.io/MEMECanvas/)**
 
-**![Demonstração](https://eduardoferr.github.io/MEMECanvas/)**
 Um gerador de "Meme's" simples, usando HTML/CSS/JS;
 ![PrintScreen da tela do MEMECanvas](https://raw.githubusercontent.com/EduardoFerr/MEMECanvas/master/meme.png "MEMECanvas - HTML5/CSS3/JS" )
 
@@ -14,6 +14,6 @@ A aplicação permite escolher uma foto, inserir texto na parte superior e infer
 
 ## Execução:
 > Baixar o projeto e executar o index.html em navegadores modernos de qualquer plataforma.
-> **![Demonstração](https://eduardoferr.github.io/MEMECanvas/)**
+> **![DEMO](https://eduardoferr.github.io/MEMECanvas/)**
 
 >Qualquer questão ou dúvida, encaminhar email para ferr.tutorial@gmail.com.
