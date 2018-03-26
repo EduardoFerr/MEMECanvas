@@ -1,0 +1,28 @@
+body {
+    background: rgba(0, 0, 255, 0.199);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+main * {
+    width: 100%;
+}
+
+#image-container {
+    display: flex;
+}
+
+@media (orientation: portrait) {
+    body {
+        flex-direction: column;
+    }
+
+}
+
+@media (orientation: landscape) {
+    body {
+        flex-direction: row;
+    }
+
+}
