@@ -1,6 +1,6 @@
 # MEMECanvas
 
-**An [example](https://eduardoferr.github.io/MEMECanvas/ "MEMECanvas")**
+**Acesse [DEMO](https://eduardoferr.github.io/MEMECanvas/ "MEMECanvas")**
 Um gerador de "Meme's" simples, usando HTML/CSS/JS;
 ![PrintScreen da tela do MEMECanvas](https://raw.githubusercontent.com/EduardoFerr/MEMECanvas/master/meme.png "MEMECanvas - HTML5/CSS3/JS" )
 
